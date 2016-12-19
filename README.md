@@ -1,0 +1,1 @@
+# afarme-alongpath-component
